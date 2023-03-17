@@ -5,7 +5,10 @@
 
 # 使用方法
 
-## 获取llmapi apikey
+## 1. 获取llmapi apikey
+
+> 需要使用llmapi的apikey来接入OpenAPI
+
 - 打开网址https://llmapi.io
 <div align="center">
 <img src="images/llmapi.png" />
@@ -21,26 +24,34 @@
 <img src="images/apikey.png" />
 </div>
 
-## 下载小机灵
-### 如果你曾经下载过我们的捷径,建议先将旧版本捷径删除
+## 2. 在快捷指令中添加小机灵
+
+> 提示: 如果你曾经下载过我们的捷径,建议先将旧版本捷径删除，或在安装时选择“替换”。
 
 ### 小机灵1.0
-- 初始版本,仅单轮对话
+- 更新: 初始版本,仅支持单轮对话
 - 下载地址:https://www.icloud.com/shortcuts/5649770cb94a4ca2b54d7eb1885aad9e
-- 也可以扫码下载
+
+### 小机灵1.1
+- 更新: 支持多轮对话,输入`结束`来结束聊天
+- 下载地址:https://www.icloud.com/shortcuts/70c5343b598140c997cf7a8e6f89bb1a
+- 或者扫码下载此版本
 <div align="center">
-<img src="images/xiaojiling_1.0.png" />
+<img src="images/xiaojiling_1.1.png" />
 </div>
 
-## 配置小机灵
-打开**快捷指令** APP，找到刚刚下载的**小机灵**，长按选择**编辑**，将第一步的apikey复制到这个文本框里(注意是整个文本框里只有apikey,需要将原本的内容删掉)
+## 3. 使用apikey配置小机灵
+打开**快捷指令** APP，找到刚刚下载的**小机灵**，长按选择**编辑**，将第一步的apikey复制到这个文本框里(注意是整个文本框里只有apikey,需要将原本的内容删掉)，最后点击右上角的完成即可保存。
 <table><tr>
 <td><img src=images/config1.jpg border=0></td>
 <td><img src=images/config2.jpg border=0></td>
 <td><img src=images/config3.jpg border=0></td>
 </tr></table>
 
-## 使用
+## 4. 开始使用
+
+> 注意: 首次使用小机灵时，系统可能会提示你:`允许"小机灵"连接"api.llmapi.io"吗？`,请点击`允许`，否则无法使用
+
 - (可选,推荐)将刚刚下载的捷径添加到桌面
 <table><tr>
 <td><img src=images/add_to_screen1.jpg border=0></td>
