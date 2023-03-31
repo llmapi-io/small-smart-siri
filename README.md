@@ -64,12 +64,12 @@
 <td><img src=images/a1.jpg border=0></td>
 </tr></table>
 <table><tr>
-<td><img src=images/q2.jpg border=0></td>
-<td><img src=images/a2.jpg border=0></td>
-</tr></table>
-<table><tr>
-<td><img src=images/q3.jpg border=0></td>
-<td><img src=images/a3.jpg border=0></td>
+
+- 也支持连续对话
+<td><img src=images/q2_1.jpg border=0></td>
+<td><img src=images/a2_1.jpg border=0></td>
+<td><img src=images/q2_2.jpg border=0></td>
+<td><img src=images/a2_2.jpg border=0></td>
 </tr></table>
 
 - 也可以通过对着Siri说**小机灵**,回复**我是小机灵,请说**即可
